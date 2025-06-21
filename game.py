@@ -83,7 +83,7 @@ class Game:
         - On exit, show statistics and optionally save them to a file.
         """
         print(
-            'Welcome to my mini game!'
+            'Welcome to my mini game! '
             'Each step you will have a chance to find something.\n'
             "Let's try!")
         step_counter = 0

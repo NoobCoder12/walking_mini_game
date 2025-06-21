@@ -1,0 +1,4 @@
+Number of steps taken: 27
+Number of found chests: 17
+Number of collected gold: 43493
+Number of nothing found: 10

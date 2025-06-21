@@ -28,11 +28,11 @@ This project consists of three main files:
 
 ## File Structure
 
-/
-├── chest.py         # Chest class - treasure chests with gold
-├── game.py          # Game class - game logic
-├── main.py          # Entry point to run the game
-└── test_game.py     # Unit tests using pytest
+      /
+      ├── chest.py         # Chest class - treasure chests with gold
+      ├── game.py          # Game class - game logic
+      ├── main.py          # Entry point to run the game
+      └── test_game.py     # Unit tests using pytest
 
 ## Testing
 
@@ -48,22 +48,22 @@ pytest test_game.py
 
 ## Sample Gameplay
 
-Welcome to my mini game!Each step you will have a chance to find something.
-Let's try!
-Would you like to take a step? y/n
-y
-You found [green]GREEN[/green] chest!Received 1023 gold.
+      Welcome to my mini game!Each step you will have a chance to find something.
+      Let's try!
+      Would you like to take a step? y/n
+      y
+      You found [green]GREEN[/green] chest!Received 1023 gold.
 
-Would you like to take a step? y/n
-n
-Game statistics: 
-You took 1 steps. 
-You have found 1 chests and collected 1023 gold.
-You have found nothing 0 times.
-
-Would you like to save statistics as a text file? y/n 
-y
-File was saved. Thank you for playing. See you next time!
+      Would you like to take a step? y/n
+      n
+      Game statistics: 
+      You took 1 steps. 
+      You have found 1 chests and collected 1023 gold.
+      You have found nothing 0 times.
+      
+      Would you like to save statistics as a text file? y/n 
+      y
+      File was saved. Thank you for playing. See you next time!
 
 ## Author
 

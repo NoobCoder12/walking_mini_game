@@ -44,7 +44,7 @@ Tests verify:
 
 To run tests:
 
-pytest test_game.py
+      pytest test_game.py
 
 ## Sample Gameplay
 

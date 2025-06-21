@@ -17,7 +17,7 @@ This project consists of three main files:
 
 ## How to Run the Game
 
-1. Make sure you have Python 3.7+ installed.
+1. Make sure you have Python 3.6+ installed.
 2. (Optional) Install the `rich` library for colorful console output:
    ```bash
    pip install rich
